@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>We-api </title>
+    <title>Wetransfertcash| envoyer l'argent facilement</title>
     <!-- plugins:css -->
     <link rel="stylesheet" href="{{asset('lib/animate/animate.min.css')}}">
     <link rel="stylesheet" href="{{asset('lib/owlcarousel/assets/owl.carousel.min.css')}}">
